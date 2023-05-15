@@ -1,7 +1,8 @@
 {
 	"editor.formatOnSave": true,
+	"editor.tabSize": 2,
 	"[svelte]": {
-		"editor.defaultFormatter": "svelte.svelte-vscode",
+		"editor.defaultFormatter": "svelte.svelte-vscode"
 	},
-	"svelte.enable-ts-plugin": true,
+	"svelte.enable-ts-plugin": true
 }

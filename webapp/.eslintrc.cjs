@@ -31,6 +31,7 @@ module.exports = {
 		"no-console": "warn",
 		"no-debugger": "warn",
 		semi: ["error", "always"],
-		quotes: ["error", "double"]
+		quotes: ["error", "double"],
+
 	}
 };
