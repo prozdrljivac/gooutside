@@ -1,6 +1,6 @@
 <script lang="ts">
-	import GoButton from "./ui/go-button.svelte";
-	import GoInput from "./ui/go-input.svelte";
+	import GoButton from "$lib/ui/go-button.svelte";
+	import GoInput from "$lib/ui/go-input.svelte";
 
 	let counter = 0;
 
