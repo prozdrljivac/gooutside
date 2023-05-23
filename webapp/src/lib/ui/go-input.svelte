@@ -1,5 +1,4 @@
 <script lang="ts">
-	// TODO Add validation ZOD?
 	import { createEventDispatcher } from "svelte";
 
 	export let value = "";
